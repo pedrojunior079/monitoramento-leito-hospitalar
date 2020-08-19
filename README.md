@@ -1,2 +1,2 @@
 # monitoramento-leito-hospitalar
-TCC sobre Monitoramento Ambiental Leito Hospitalar com a utilização de sensores de Umidade, Temperatura e Lumninosidade liigados atraves do Arduino Mega conectado a um Ehternet Shield W5500.
+TCC sobre Monitoramento Ambiental Leito Hospitalar com a utilização de sensores de Umidade, Temperatura e Lumninosidade liigados atraves do Arduino Mega conectado a um Ehternet Shield W5500 e a leitura dos dados se da atraves do servidor ThingSpeak que é um servidor na nuvem que faz a leitura é gravação dos dados em tempo real mostrando em forma de grafícos o dia e a hora da Umidade, Temperatura e Luminosidade
